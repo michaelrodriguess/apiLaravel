@@ -7,7 +7,7 @@ Este é um projeto Laravel que tem como objetivo criar um sistema de gerenciamen
 
 Antes de começar, certifique-se de ter os seguintes requisitos instalados em sua máquina:
 
-- [PHP](https://www.php.net/) 
+- [PHP](https://www.php.net/) (versão 8 ou superior)
 - [Composer](https://getcomposer.org/)
 - [Node.js](https://nodejs.org/)
 - [npm](https://www.npmjs.com/)
